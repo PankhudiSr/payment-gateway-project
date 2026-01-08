@@ -1,4 +1,6 @@
 HELP.md
+# Ignore real Spring Boot config containing passwords & API keys
+application.properties
 target/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
